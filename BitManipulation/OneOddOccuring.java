@@ -1,4 +1,3 @@
-package BitManipulation;
 
 public class OneOddOccuring {
     static int OneOdd(int[] arr){

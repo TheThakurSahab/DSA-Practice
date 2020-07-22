@@ -1,5 +1,3 @@
-package BitManipulation;
-
 public class IsBitOnLeftShift {
     public static void main(String[] args) {
         int n = 13, k = 3;

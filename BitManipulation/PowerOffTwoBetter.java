@@ -1,5 +1,3 @@
-package BitManipulation;
-
 public class PowerOffTwoBetter {
     static boolean PowerOfTwo(int n){
         if (n<=0)

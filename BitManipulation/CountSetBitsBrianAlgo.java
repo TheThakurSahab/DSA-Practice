@@ -1,5 +1,3 @@
-package BitManipulation;
-
 public class CountSetBitsBrianAlgo {
     static int CountSetBits(int n){
         int count = 0;

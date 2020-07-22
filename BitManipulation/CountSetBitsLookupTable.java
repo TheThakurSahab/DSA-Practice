@@ -1,5 +1,3 @@
-package BitManipulation;
-
 public class CountSetBitsLookupTable {
     static int []table = new int[256];
     // recursive function to count set bits

@@ -1,5 +1,3 @@
-package BitManipulation;
-
 public class PowerOfTwo {
     static boolean PowerOfTwo(int n){
         if (n<=0)

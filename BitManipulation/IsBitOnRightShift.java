@@ -1,4 +1,3 @@
-package BitManipulation;
 
 public class IsBitOnRightShift {
     public static void main(String[] args) {
