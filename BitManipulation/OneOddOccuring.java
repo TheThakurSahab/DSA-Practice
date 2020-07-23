@@ -9,7 +9,7 @@ public class OneOddOccuring {
     }
     //Driver Code
     public static void main(String[] args) {
-        int arr[] = {4,5,4,5,4,4,4,5,5};
+        int arr[] = {4,5,4,5,4,5,4,6,5,5};
         System.out.println(OneOdd(arr));
     }
 }
