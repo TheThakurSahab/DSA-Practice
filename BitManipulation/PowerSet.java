@@ -1,5 +1,5 @@
 public class PowerSet {
-    static void PowerSet(String str){
+    PowerSet(String str){
         int n =str.length();
         int powSize = (int)Math.pow(2,n);
         for(int counter=0;counter<powSize;counter++){
@@ -13,6 +13,6 @@ public class PowerSet {
     //Driver code
     public static void main(String[] args) {
         String name = "RAM";
-        PowerSet(name);
+        new PowerSet(name);
     }
 }
