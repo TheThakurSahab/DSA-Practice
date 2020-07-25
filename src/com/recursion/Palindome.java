@@ -5,9 +5,7 @@ public class Palindome {
         int n = Str.length();
         if (Start>=End)
             return true;
-        if(Str.charAt(Start)==Str.charAt(End))
-            return checkPalindrom(Str, Start+1,End-1);
-        return false;
+            return ((Str.charAt(Start)==Str.charAt(End)) && checkPalindrom(Str, Start+1,End-1));
     }
     //Driver code
     public static void main(String[] args) {
