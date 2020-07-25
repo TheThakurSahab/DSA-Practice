@@ -1,6 +1,6 @@
 package com.recursion;
 
-class TestClass {
+class Fibbonaci {
     static long Fib(int n) {
         if (n <= 1) return n;
         //if (n == 1) return 1;
